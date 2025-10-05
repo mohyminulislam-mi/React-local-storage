@@ -1,0 +1,13 @@
+.bottle img{
+    width: 230px;
+}
+.card {
+    border: 2px solid teal;
+    padding: 20px;
+    border-radius: 20px;
+}
+.bottles-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
